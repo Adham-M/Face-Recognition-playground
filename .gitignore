@@ -1,9 +1,9 @@
 .ipynb_checkpoints
 __pycache__
-archive
+#archive
 archive1
 Pose Estimation
-test
+#test
 test1
 *.index
 shape_predictor_68_face_landmarks.dat
